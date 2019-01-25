@@ -4,7 +4,7 @@ A small filesystem
 Make sure the executable MyFileSystem.exe is in the same folder as the file mydisk.txt.
 
 *note: the executable may make mistakes when it is run for the first time on other PCs. 
-If it makes mistakes, it can be closed and re-opened and then formatted.
+If it makes mistakes, you can close it, re-open it and then format.
 
 Double-click MyFileSystem.exe to run the program
 You can select the function number to complete the corresponding function, and the function number is as follows:
